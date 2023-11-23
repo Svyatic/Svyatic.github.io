@@ -1,0 +1,44 @@
+img{
+    margin-top:-150px;
+}
+h1{
+    color: #8ffd00;
+}
+#ghf{
+    display: flex;
+    width: 600px;
+    height: 600px;
+    background-color: #8ffd00;
+    flex-direction: column;
+    justify-content: center;
+    
+
+
+}
+#ghj{
+    text-decoration-line:underline;
+    text-align: center;
+    font-size: 55px;
+}
+#ert{
+    font-size: 30px;
+    text-align: center;
+}
+#ytr{
+    width: 200px;
+    justify-content: center;
+    width: 600px;
+}
+#ery{
+    
+    text-align: center;
+    font-size: 30px;
+    margin: 30px;
+}
+#yu{
+    justify-content: center;
+}
+#rty{
+    flex-direction: row;
+    justify-content: center;
+}
